@@ -153,7 +153,7 @@ export default function Home() {
               <p>
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                 Perspiciatis cum corrupti ea at id fugit consequatur. Vitae
-                distinctio molestiae asperiores!
+                distinctio molestiae
               </p>
               <h3>Alberrto Zalaberto</h3>
             </div>
