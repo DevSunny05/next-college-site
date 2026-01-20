@@ -148,7 +148,7 @@ export default function Home() {
           </div>
 
           <div className="testomonial-col">
-            <img src="/user2.jpg" alt="" />
+            <img src="/user2.jpg" alt="user" />
             <div>
               <p>
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit.
